@@ -1,2 +1,1 @@
-# structPoke
-GOTTA CATCH THEM ALL!
+# myStruct
